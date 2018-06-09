@@ -1,0 +1,85 @@
+body{
+	margin:50px 0px 0px 200px;
+	background-color:  #990000;
+}
+.para{font-family: 'Lobster', cursive;
+margin-right::
+margin:70px 10px 0px 30px;
+position:absolute;
+display:inline;
+float:right;
+font-size:25px;
+text-transform: lowercase;
+line-height: 80px;
+}
+#img1{
+margin:17px 20px 0px 20px;
+border:3px  #ffff;
+border-radius:40%;
+outline: hsl(20% ,1%, 70%);
+}
+#myImage{
+margin:19px 0px 30px 50px;
+width:500px;
+height:200px;
+border-radius: 20px;
+}
+#para2{
+margin:10px 0px 0px 20px;
+padding-left:1px;
+
+color:;
+}
+
+#one{
+background-color: #ff3333;
+height:120px;
+width: 700px;
+margin-bottom:20px;
+border: 2px solid #990000;
+border-style:5px;
+border-radius: 15px 60px 0px 10px;
+}
+#two{
+
+background-color: #ff4d4d;
+height:500px;
+width: 700px;
+border:3px dotted #990000;
+border-radius: 0px 0px 10px 70px;
+}
+</head>
+body{
+background-color: ;
+}
+
+.myButton{
+margin-top: 10px;
+text-decoration:none;
+display:inline;
+background-color:black;
+margin-left:20px;
+
+}
+
+a:hover{
+background-color:green;
+padding:5px;
+margin:10px;
+}
+a:click{
+color:red;
+}
+a{
+text-decoration:none;
+border:2px;
+padding:7px; 
+border-radius: 15px 15px 15px 15px;
+margin-top: 90px;
+color: #ff3333;
+
+}
+
+#button1: click~.myImage{
+	background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu3ziroHcmGQjAeD6RfEbPJ2pspu2iW6u7U53lJhfqqRn30G2FtA");
+}
